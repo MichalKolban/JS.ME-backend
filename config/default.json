@@ -1,0 +1,8 @@
+{
+    "database_name" : "quizdb",
+    "database_port" : 4040,
+    "database_URL" : "mongodb+srv://heroadmin:createownworld98@cluster0.pmrtf.mongodb.net/quiz?retryWrites=true&w=majority",
+
+    "default_question_size" : 10
+
+}
